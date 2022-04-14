@@ -4,7 +4,7 @@ esphome:
 
 #Set the microcontroller type and the board being used
 esp8266:
-  board: nodemcuv2
+  board: d1_mini
 
 #Enable logging and set the level to show INFO or DEBUG. DEBUG may be needed for part two of the second projects, where the serial number of the connected DS18B20 sensor is determined 
 logger:
